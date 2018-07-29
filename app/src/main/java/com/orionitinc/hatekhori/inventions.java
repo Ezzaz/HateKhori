@@ -13,9 +13,6 @@ import java.io.InputStream;
 import java.io.OutputStream;
 import java.util.Locale;
 
-/**
- * Created by Vikesh PC on 08-04-2016.
- */
 public class inventions extends SQLiteOpenHelper {
 
     private static final String Database_path = "/data/data/com.orionitinc.hatekhori/databases/";
